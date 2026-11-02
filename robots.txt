@@ -1,0 +1,6 @@
+# Dozvoli svim pretraživačima da indeksiraju sajt
+User-agent: *
+Allow: /
+
+# Putanja do XML mape sajta
+Sitemap:  https://inamilenkovic.github.io/InaMilenkovic-VD2026//sitemap.xml
