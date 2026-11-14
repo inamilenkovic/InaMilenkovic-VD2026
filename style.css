@@ -91,7 +91,12 @@
 .social-icons, .likebtn-wrapper {
    display: flex;
    justify-content: center;
-  width: 100%;
+}
+
+.social-icons > span, 
+.social-icons > div {
+    display: inline-block !important;
+    text-align: center !important;
 }
 
 
