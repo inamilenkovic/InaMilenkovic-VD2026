@@ -80,15 +80,17 @@
   font-family: Arial, Helvetica, sans-serif;
   box-shadow: 3px 3px 10px  rgba(0, 0, 0, 0.2);
   border: 1px solid #3a4a78;
-  display: flex;
-  justify-content: center;
-  align-items: center;
 
 }
 
 .footer p {
   text-align: center;
   margin-bottom: 20px;
+}
+
+.social-icons, likebtn-wrapper {
+  display: flex
+  justify-items: center;
 }
 
 
